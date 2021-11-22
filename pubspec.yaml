@@ -1,4 +1,4 @@
-name: steel_crypt
+name: steel_crypt_pc335
 description: A comprehensive library of high-level, cryptographic APIs. This library supports hashing, password hashing,
   two-way encryption, MAC authentication, and key/IV generation.
 version: 3.0.0+1
