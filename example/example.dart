@@ -4,7 +4,7 @@
 
 // © 2021 Aditya Kishore
 
-import 'package:steel_crypt/steel_crypt.dart';
+import 'package:steel_crypt_pc335/steel_crypt.dart';
 
 void main() {
   // Generate keys/ivs/nonces

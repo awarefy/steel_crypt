@@ -4,7 +4,7 @@ description: A comprehensive library of high-level, cryptographic APIs. This lib
 version: 3.0.0+1
 homepage: https://github.com/AKushWarrior/steel_crypt
 repository: https://github.com/AKushWarrior/steel_crypt
-issue_tracker: https://github.com/AKushWarrior/steel_crypt/issues
+issue_tracker: https://github.com/AKushWarrior/steel_crypt_pc335/issues
 
 executables:
   decrypt: decrypt

@@ -11,7 +11,7 @@ import 'dart:core' as core;
 import 'dart:math';
 import 'dart:typed_data';
 
-import 'package:steel_crypt/src/satellites/satellite.dart';
+import 'package:steel_crypt_pc335/src/satellites/satellite.dart';
 
 import 'package:pointycastle_pc335api.dart';
 import 'package:pointycastle_pc335export.dart';
