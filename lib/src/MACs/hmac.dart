@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 
-import 'package:pointycastle/api.dart';
-import 'package:pointycastle/export.dart';
+import 'package:pointycastle_pc335api.dart';
+import 'package:pointycastle_pc335export.dart';
 import '../enum.dart';
 import '../enum_utils.dart';
 

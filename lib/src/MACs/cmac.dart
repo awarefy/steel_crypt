@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 
-import 'package:pointycastle/api.dart';
-import 'package:pointycastle/export.dart';
+import 'package:pointycastle_pc335api.dart';
+import 'package:pointycastle_pc335export.dart';
 
 class CMAC {
   final Uint8List _key;

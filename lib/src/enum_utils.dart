@@ -1,5 +1,5 @@
-import 'package:pointycastle/api.dart';
-import 'package:pointycastle/macs/hmac.dart';
+import 'package:pointycastle_pc335api.dart';
+import 'package:pointycastle_pc335macs/hmac.dart';
 
 import 'enum.dart';
 
