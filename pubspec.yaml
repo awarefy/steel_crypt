@@ -17,7 +17,10 @@ environment:
 
 dependencies:
   args: ^2.0.0
-  pointycastle: 3.3.5
+  pointycastle_pc335:
+    git:
+      url: https://github.com/hakali/pc-dart.git
+      ref: pc-335
 
 dev_dependencies:
   pedantic: ^1.11.0
