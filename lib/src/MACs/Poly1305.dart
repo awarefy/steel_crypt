@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 
-import 'package:pointycastle_pc335api.dart';
-import 'package:pointycastle_pc335export.dart' as exp;
+import 'package:pointycastle_pc335/api.dart';
+import 'package:pointycastle_pc335/export.dart' as exp;
 
 class Poly1305 {
   final KeyParameter _listkey;

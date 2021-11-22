@@ -13,11 +13,11 @@ import 'dart:typed_data';
 
 import 'package:steel_crypt_pc335/src/satellites/satellite.dart';
 
-import 'package:pointycastle_pc335api.dart';
-import 'package:pointycastle_pc335export.dart';
-import 'package:pointycastle_pc335macs/poly1305.dart';
-import 'package:pointycastle_pc335stream/chacha20poly1305.dart';
-import 'package:pointycastle_pc335stream/chacha7539.dart';
+import 'package:pointycastle_pc335/api.dart';
+import 'package:pointycastle_pc335/export.dart';
+import 'package:pointycastle_pc335/macs/poly1305.dart';
+import 'package:pointycastle_pc335/stream/chacha20poly1305.dart';
+import 'package:pointycastle_pc335/stream/chacha7539.dart';
 import 'MACs/Poly1305.dart' as poly;
 import 'MACs/cmac.dart';
 import 'MACs/hmac.dart';
