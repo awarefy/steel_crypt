@@ -19,7 +19,7 @@ dependencies:
   args: ^2.0.0
   pointycastle_pc335:
     git:
-      url: https://github.com/hakali/pc-dart.git
+      url: https://github.com/awarefy/pc-dart.git
       ref: pc-335
 
 dev_dependencies:
